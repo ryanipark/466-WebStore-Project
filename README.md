@@ -26,3 +26,7 @@ https://user-images.githubusercontent.com/98127886/190940896-23c96ade-c858-4ca9-
 
 https://user-images.githubusercontent.com/98127886/190940898-db34a264-2f9c-4822-a067-4a8184c9e2a5.mp4
 
+**Entity Relationship Diagram we constructed:**
+
+![chrome_YH4W6DBcUa](https://user-images.githubusercontent.com/98127886/190941029-0ee8eea2-2e51-4477-ac22-edf6c70b9836.png)
+
