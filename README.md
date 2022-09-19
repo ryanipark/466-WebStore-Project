@@ -10,9 +10,9 @@
 
 **My focus:**  
 
- - Creating SQL scripts that tests 
+ - Creating SQL scripts that clear or fill the database with info
  - Creating and optimizing safe SQL queries
- - Displaying products/details of products to the consumer
+ - Displaying products and their details of products to the consumer
 
 
 
